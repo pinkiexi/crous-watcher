@@ -23,17 +23,17 @@
     "/tools/42/accommodations/287"
   ],
   "https://trouverunlogement.lescrous.fr/tools/42/search?bounds=2.224122_48.902156_2.4697602_48.8155755&locationName=Paris": [
-    "/tools/42/accommodations/1546",
+    "/tools/42/accommodations/778",
     "/tools/42/accommodations/3182",
-    "/tools/42/accommodations/778"
+    "/tools/42/accommodations/1546"
   ],
   "https://trouverunlogement.lescrous.fr/tools/42/search?bounds=1.4462445_49.241431_3.5592208_48.1201456&locationName=%C3%8Ele-de-France": [
-    "/tools/42/accommodations/778",
-    "/tools/42/accommodations/1546",
-    "/tools/42/accommodations/2867",
     "/tools/42/accommodations/1031",
-    "/tools/42/accommodations/348",
+    "/tools/42/accommodations/3182",
+    "/tools/42/accommodations/2867",
+    "/tools/42/accommodations/1546",
     "/tools/42/accommodations/1873",
-    "/tools/42/accommodations/3182"
+    "/tools/42/accommodations/778",
+    "/tools/42/accommodations/348"
   ]
 }
